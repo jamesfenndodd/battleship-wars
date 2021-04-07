@@ -11,8 +11,8 @@ so how did i approcach this
 i started of by breaking it down uml diagram see below:
 
 
-how do i get a image into a read me because i cant seem to 
-mike please email me for uml if needed beacuse repl wont let me get hte image into the read me?
+![image](https://user-images.githubusercontent.com/31471373/113881124-0ba1e980-97b4-11eb-9bbe-6fa31c648371.png)
+
 
 
 
