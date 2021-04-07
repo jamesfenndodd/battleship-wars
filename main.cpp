@@ -11,17 +11,29 @@
 mINI::INIFile file("adaship_config.ini");
 mINI::INIStructure config;
 
+// the board x height
 int boardx;
+//the board y width
 int boardy;
+// hold for x 
 int x;
+// hold for the x pos to fire upon 
 int xf;
+// the num of ship we are looking at
 int shipnum;
+// the string hold for a y cord
 std::string y;
+// the string for a y cord to be fired upon
 std::string yf;
+// the int to hold the player currently making a move
 int player;
+// the hold for what direction the ship will face
 char direc;
+// the life count or slavo count for player
 int salvocount;
+// the life count or slavo count for player
 int salvocount1;
+// the string to hold who the winner is
 std::string winner;
 
 void clear() {
